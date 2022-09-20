@@ -15,3 +15,73 @@
 3. Crear README
 
 ![image](https://user-images.githubusercontent.com/90345024/191371918-dfdf8737-ce5d-4d7a-9567-4ff392373f40.png)
+
+4. Commit inicial
+
+![image](https://user-images.githubusercontent.com/90345024/191372293-4a0f3616-e843-4e00-89e1-a13f0f34381d.png)
+
+5. Push inicial
+
+![image](https://user-images.githubusercontent.com/90345024/191373855-757854fa-7c4b-44a1-9a51-8842932a4c8b.png)
+
+6. Crear un archivo llamado privado.txt y una carpeta llamada privada
+
+![image](https://user-images.githubusercontent.com/90345024/191374066-1b6d42f9-9a4d-4454-9130-30e57a11e93a.png)
+
+7. Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
+
+![image](https://user-images.githubusercontent.com/90345024/191374361-7d88a0ae-cf26-4fb0-a2d7-08bf4a8671eb.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191374578-fb67b7cd-3856-401c-a728-8b368ce33b80.png)
+
+8. Añadir el archivo 1.txt
+
+![image](https://user-images.githubusercontent.com/90345024/191374715-f0a7b467-a1cd-4fc6-8e33-77eafd488e8d.png)
+
+9. Crear el tag v0.1
+
+![image](https://user-images.githubusercontent.com/90345024/191374978-ae6e35b0-df82-4dda-aafe-d66837ad622f.png)
+
+10. Subir el tag al repositorio remoto
+
+![image](https://user-images.githubusercontent.com/90345024/191375119-2454f944-9aae-4315-85dc-1adf1a3e619f.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191375241-ac2f595c-63d4-4d19-88b0-2a06d7cb1f81.png)
+
+11. Crear una rama v0.2 y posicionate ahí
+
+![image](https://user-images.githubusercontent.com/90345024/191375448-977801ef-d106-4390-9a5d-1ef3053677f3.png)
+
+12. Añadir Archivo 2.txt en la rama v0.2
+
+![image](https://user-images.githubusercontent.com/90345024/191375717-b72cf5d8-f8d6-4083-bf15-b623050ed479.png)
+
+13. Crea una rama remota v0.2
+
+![image](https://user-images.githubusercontent.com/90345024/191375879-8dda31e8-e5df-409c-8368-8ea2b1cc4fac.png)
+
+Subir los cambios al repositorio remoto
+
+![image](https://user-images.githubusercontent.com/90345024/191376569-9bccdcad-29fe-4670-8e20-bc0612663574.png)
+
+14. Merge directo
+
+Posicionarse en la rama master.
+
+![image](https://user-images.githubusercontent.com/90345024/191376909-189a0bfb-5256-4e63-8144-bf33d470b59a.png)
+
+Hacer un merge de la rama v0.2 en la rama master.
+
+![image](https://user-images.githubusercontent.com/90345024/191377060-50819ddf-42c8-4595-a58e-5db5fea55a43.png)
+
+15. Merge con conflicto
+
+En la rama master poner Hola en el fichero 1.txt y hacer commit.
+
+![image](https://user-images.githubusercontent.com/90345024/191377242-9368c192-3452-4918-bafa-1c0a91b4808d.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191377191-28f8aff5-2775-43e0-9098-0de035cf386e.png)
+
+Posicionarse en la rama v0.2 y poner Adios en el archivo "1.txt" y hacer commit.
+
+Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2
