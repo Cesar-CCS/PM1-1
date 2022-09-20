@@ -82,6 +82,26 @@ En la rama master poner Hola en el fichero 1.txt y hacer commit.
 
 ![image](https://user-images.githubusercontent.com/90345024/191377191-28f8aff5-2775-43e0-9098-0de035cf386e.png)
 
+![image](https://user-images.githubusercontent.com/90345024/191378447-afee12af-dc54-46be-a6fd-82cfcc9cc181.png)
+
 Posicionarse en la rama v0.2 y poner Adios en el archivo "1.txt" y hacer commit.
 
+![image](https://user-images.githubusercontent.com/90345024/191377398-91bb62a4-c12d-47f9-95cf-c69f6e11fc49.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191377341-005a2c81-c47d-4187-8e97-8aa44797b398.png)
+
+![image](https://user-images.githubusercontent.com/90345024/![image](https://user-images.githubusercontent.com/90345024/191378575-ab5b92b0-6903-4917-8717-d0d4cad92702.png)
+
 Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2
+
+![image](https://user-images.githubusercontent.com/90345024/191378656-be6407cf-d837-4f34-b7e1-121da0334c38.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191378852-f24f2623-8209-4c9a-a996-a85f4a89c7f4.png)
+
+16. Listado de ramas con merge y sin merge
+
+![image](https://user-images.githubusercontent.com/90345024/191378999-5298c082-5342-485e-b53b-aadb11025060.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191379165-6bb7ff1f-ebd7-4fea-a8c6-6c6ce9cf41dd.png)
+
+17. Arreglar conflicto
