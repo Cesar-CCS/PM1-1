@@ -196,4 +196,8 @@ PARTE 2
 
 - Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores.
 
+![image](https://user-images.githubusercontent.com/90345024/191509379-97553656-3fb1-4418-8881-4babdbaf3bd0.png)
+
+![image](https://user-images.githubusercontent.com/90345024/191509882-4671485e-3ca0-465d-8e56-b6747cc8bccd.png)
+
 - Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores.
